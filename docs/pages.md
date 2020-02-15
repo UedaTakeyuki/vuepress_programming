@@ -1,6 +1,7 @@
 ---
 tag: control vue
 title: pages
+posted: 2020-02-15
 ---
 # pages
 ## ページ
