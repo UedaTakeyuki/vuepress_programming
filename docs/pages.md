@@ -10,12 +10,12 @@ posted: 2020-02-15
   {{page.tags}}
 </div>
 
-### vue
-<div　v-for="page in $site.pages.filter(page => String(page.frontmatter.tag).match(/vue/))">
+### control
+<div　v-for="page in $site.pages.filter(page => String(page.frontmatter.tag).match(/control/))">
   <a v-bind:href="page.path">{{page.title}}</a>
   {{page.tags}}
 </div>
 
-### control
-<Tags tag="control"/>
+### vue
+<Tags tag="vue" shows="5"/>
 ## さらにページ
