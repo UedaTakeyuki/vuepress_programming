@@ -15,4 +15,6 @@ title: pages
   {{page.tags}}
 </div>
 
+### control
+<Tags tag="control"/>
 ## さらにページ
