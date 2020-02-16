@@ -1,2 +1,3 @@
 2020.02.15 start from scratch
            Tags.vue pages.md pagination
+2020.02.16 button appearance
